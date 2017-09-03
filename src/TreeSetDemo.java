@@ -14,6 +14,5 @@ public class TreeSetDemo {
         treeSet.add("D");
 
         System.out.println(treeSet);
-
     }
 }
