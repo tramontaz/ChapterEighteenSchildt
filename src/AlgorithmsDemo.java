@@ -12,7 +12,7 @@ public class AlgorithmsDemo {
 
         Comparator<Integer> comparator = Collections.reverseOrder();
 
-        Collections.sort(linkedList, comparator);
+        linkedList.sort(comparator);
 
         System.out.print("Linked list sorted in reverse order: ");
         for (int i : linkedList) System.out.print(i + " ");
