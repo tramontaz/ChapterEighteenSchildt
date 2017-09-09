@@ -37,5 +37,4 @@ public class VectorDemo {
         System.out.println("\nelements of vector: ");
         while (vectorEnumeration.hasMoreElements()) System.out.print(vectorEnumeration.nextElement() + " ");
     }
-
 }
